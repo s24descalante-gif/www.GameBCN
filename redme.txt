@@ -1,0 +1,71 @@
+
+# Redisseny Web GameBCN]
+
+## Descripcion
+GameBCN ofereix una plataforma més clara, funcional i alineada amb la seva identitat com a programa d’incubació de videojocs. 
+Millora l’organització dels continguts i la navegació, reforça la jerarquia visual i redueix la saturació gràfica per facilitar 
+la lectura en tots els dispositius. Al mateix temps, dona més protagonisme als projectes incubats,a les dades clau i als casos d’èxit,
+convertint la web en una eina de comunicació més professional i representativa del paper de GameBCN dins de l’ecosistema indie.
+
+## Objetivo del proyecto
+La finalitat principal del web és redefinir la presència digital de GameBCN perquè comuniqui amb més claredat la seva identitat com a programa d’incubació de videojocs,
+faciliti l’accés a la informació clau i doni més visibilitat als projectes i casos d’èxit del programa
+
+## Tecnologias utilizadas
+- **HTML5** per estructurar el contingut de totes les pàgines, definint seccions, jerarquia i elements semàntics com header, main, article i footer.
+- **CSS3** per desenvolupar la capa visual del web, aplicant la paleta cromàtica, el sistema tipogràfic, la retícula responsive i els estils d’interfície definits a la guia d’estil.
+- **JavaScript** per gestionar les interaccions i microinteraccions de la interfície, com la navegació dinàmica, els components interactius i els comportaments adaptats a l’usuari.
+
+## Estructura principal de la pagina
+- **Navegacion principal amb accés directe a les seccions d’Inici, Sobre nosaltres, Incubació, Portfolio i Contacte, pensada per guiar ràpidament cada perfil d’usuari.
+- **Portada que comunica la proposta de valor de GameBCN, destaca dades clau del programa i enllaça a la informació d’incubació i als projectes incubats.
+- Secció 1 (Incubació) amb informació ordenada sobre funcionament del programa, requisits, fases i beneficis per als equips participants.
+-Secció 2 (Portfolio) amb un recull visual dels videojocs incubats, fitxes resum i enllaços externs per mostrar el talent i l’impacte del programa.
+- **Footer amb dades de contacte, enllaços a xarxes socials, crèdits i accessos ràpids a recursos informatius addicionals.
+
+## Caracteristicas destacadas
+- Arquitectura de la informació replantejada per millorar la claredat i l’escaneig del contingut.
+- Disseny visual coherent amb la identitat gamer de GameBCN, però amb menor saturació i millor llegibilitat.
+- Experiència d’usuari orientada a equips indie, publishers i premsa, amb recorreguts específics per a cada perfil.
+
+## Estructura de carpetas recomendada
+```bash
+Web GameBCN/
+│
+├── index.html
+├── css/
+│   └── Home_incubacion.css
+│   └── Portfolio_Contacto_404.css
+
+├── js/
+│   └── contacto.js
+│   └── incubacion.js
+│   └── portfolio.js
+│   └── script.js
+└── media/
+    └── recursos
+```
+
+> Importante: explica aqui si el proyecto necesita mantener una estructura concreta de carpetas para que funcionen las rutas.
+
+## Como ejecutar el proyecto
+1. Descarga o copia todos los archivos del proyecto.
+2. Organiza los archivos en la estructura de carpetas indicada.
+3. Abre `index.html` en tu navegador.
+
+La web obrint directament index.html al navegador, però és recomanable utilitzar un servidor local
+
+
+
+## Posibles mejoras futuras
+- Responsive tablet
+- Responsive Movil
+
+
+## Autoria
+Pamela Escalante Paredes
+
+## Licencia
+Aquest projecte s’ha desenvolupat amb finalitats acadèmiques dins del marc del cicle de Grau Superior de Gràfica Interactiva. 
+No està destinat a un ús comercial directe ni substitueix el web oficial de GameBCN.
+
